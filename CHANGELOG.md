@@ -1,3 +1,11 @@
+## [4.12.6](https://github.com/metacontroller/metacontroller/compare/v4.12.5...v4.12.6) (2026-02-24)
+
+
+### Bug Fixes
+
+* **deps:** Update actions and dockerfiles ([6a3e946](https://github.com/metacontroller/metacontroller/commit/6a3e946f65addfd8e28933b75206645454ca889b))
+* **deps:** Update golang to 1.26.0 ([8eccb5c](https://github.com/metacontroller/metacontroller/commit/8eccb5c83a3a9033aca0ae470d43007cd9e6f66a))
+
 ## [4.12.5](https://github.com/metacontroller/metacontroller/compare/v4.12.4...v4.12.5) (2025-08-09)
 
 
