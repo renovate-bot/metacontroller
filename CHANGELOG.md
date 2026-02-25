@@ -1,3 +1,12 @@
+## [4.12.7](https://github.com/metacontroller/metacontroller/compare/v4.12.6...v4.12.7) (2026-02-25)
+
+
+### Bug Fixes
+
+* **goreleaser:** Fix goreleaser configuraion ([9bcf2f0](https://github.com/metacontroller/metacontroller/commit/9bcf2f0db5da3fbb79a2dafc36765f0945d056f9))
+* **release:** Ignore unsupported build targets ([a778e10](https://github.com/metacontroller/metacontroller/commit/a778e10cbc47ebaecf6d7e9401a4cbd893d8cd2d))
+* **release:** Remove unsupported windows arm release target ([aecbe44](https://github.com/metacontroller/metacontroller/commit/aecbe448a5684a6b8657011f14b6afe514f58368))
+
 ## [4.12.6](https://github.com/metacontroller/metacontroller/compare/v4.12.5...v4.12.6) (2026-02-24)
 
 
