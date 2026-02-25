@@ -1,3 +1,10 @@
+## [4.12.8](https://github.com/metacontroller/metacontroller/compare/v4.12.7...v4.12.8) (2026-02-25)
+
+
+### Bug Fixes
+
+* **release:** Ignore windows/arm build target ([17415e6](https://github.com/metacontroller/metacontroller/commit/17415e6e303e69d0b681207776e9a66d4e6c5e97))
+
 ## [4.12.7](https://github.com/metacontroller/metacontroller/compare/v4.12.6...v4.12.7) (2026-02-25)
 
 
