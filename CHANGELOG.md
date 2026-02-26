@@ -1,3 +1,10 @@
+## [4.12.9](https://github.com/metacontroller/metacontroller/compare/v4.12.8...v4.12.9) (2026-02-26)
+
+
+### Bug Fixes
+
+* handle updatestrategy correctly for SSA ([8bd1f73](https://github.com/metacontroller/metacontroller/commit/8bd1f73bfd0bb01570d9807edec0277a49bad4a7))
+
 ## [4.12.8](https://github.com/metacontroller/metacontroller/compare/v4.12.7...v4.12.8) (2026-02-25)
 
 
