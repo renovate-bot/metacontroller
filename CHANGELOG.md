@@ -1,3 +1,11 @@
+## [4.12.10](https://github.com/metacontroller/metacontroller/compare/v4.12.9...v4.12.10) (2026-02-28)
+
+
+### Bug Fixes
+
+* **1.35:** Handle 1.35 listwatch support ([908a5a1](https://github.com/metacontroller/metacontroller/commit/908a5a1fd8a54b9dbe11d1fb86d9e960f27b8ec5))
+* **deps:** Update dependencies ([66ebff2](https://github.com/metacontroller/metacontroller/commit/66ebff2470231ab7c6444b24938c6d0b4a1667ac))
+
 ## [4.12.9](https://github.com/metacontroller/metacontroller/compare/v4.12.8...v4.12.9) (2026-02-26)
 
 
