@@ -1,3 +1,10 @@
+## [4.12.11](https://github.com/metacontroller/metacontroller/compare/v4.12.10...v4.12.11) (2026-02-28)
+
+
+### Bug Fixes
+
+* **deps:** Update k8s dependencies to v1.35.2 ([63f0836](https://github.com/metacontroller/metacontroller/commit/63f083682cf8abbd0b406783b7e3529d733e3664))
+
 ## [4.12.10](https://github.com/metacontroller/metacontroller/compare/v4.12.9...v4.12.10) (2026-02-28)
 
 
